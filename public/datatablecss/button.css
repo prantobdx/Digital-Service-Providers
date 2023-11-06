@@ -1,0 +1,26 @@
+
+.dt-button
+{
+    padding:0.6rem 1.2rem !important;
+    color: white !important;
+    border: none !important;
+    border-right: 0.5rem !important;
+    font-weight: 550 !important;
+
+}
+
+.buttons-copy{
+    background: slateblue !important;
+}
+
+.buttons-excel{
+    background: green !important;
+}
+
+.buttons-csv{
+    background: darkcyan !important;
+}
+
+.buttons-pdf{
+    background: firebrick !important;
+}
